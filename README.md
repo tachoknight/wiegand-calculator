@@ -1,2 +1,2 @@
 # wiegand-calculator
-An encode/decode calculator for Wiegand cards, written in Go
+An encode/decode calculator for Wiegand-based cards and tags, written in Go
